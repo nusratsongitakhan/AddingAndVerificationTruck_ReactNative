@@ -1,1 +1,1 @@
-# AddingAndVerificationTruck_ReactNative
+# AddingAndVerificationTruckProject_ReactNative
